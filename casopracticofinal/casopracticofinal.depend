@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\main.cpp
+	<iostream>
+	"SistemaVentas.h"
+	"Login.h"
+	"bitacora.h"
+	"Cliente.h"
+	"Facturacion.h"
+	"Producto.h"
+	"vendedores.h"
+	"venta.h"
+
+1748380397 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\sistemaventas.h
+	<vector>
+	<string>
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"Vendedores.h"
+
+1748380398 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\cliente.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1748380397 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\producto.h
+	<string>
+	<vector>
+
+1748380397 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\venta.h
+	<string>
+	<vector>
+
+1748380397 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\vendedores.h
+	<iostream>
+	<vector>
+	<string>
+
+1748380398 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\login.h
+	<string>
+
+1748380398 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\bitacora.h
+	<string>
+	"Cliente.h"
+
+1748380398 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\facturacion.h
+	"Cliente.h"
+	"Venta.h"
+	"SistemaVentas.h"
+
+1748450751 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\bitacora.cpp
+	"bitacora.h"
+	<fstream>
+	<ctime>
+	<cstring>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\facturacion.cpp
+	"Facturacion.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\producto.cpp
+	"Producto.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\sistemaventas.cpp
+	<iostream>
+	"SistemaVentas.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\usuario.cpp
+	"Usuario.h"
+
+1748380397 c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\include\usuario.h
+	<string>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\vendedores.cpp
+	"Vendedores.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1748380397 source:c:\users\marlo\onedrive\documentos\2025\examenfinal\prototipoefp12025\casopracticofinal\src\venta.cpp
+	"Venta.h"
+
